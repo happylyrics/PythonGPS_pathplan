@@ -1,4 +1,4 @@
-# GPS based path planning
+# GPS based path planning (Python3)
 
 ## Overview
 Generates a path for a series of points using latitude and longitude.  
