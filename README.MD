@@ -7,8 +7,8 @@ A route can be generated from two or more waypoints.
 The route is output as a series of points list of latitude and longitude.
 ![スクリーンショット 2022-06-02 203917](https://user-images.githubusercontent.com/86940058/174790821-a73dfe9a-929a-4e9f-a156-1816e00a570a.png)
 ### Program Description
-GPS_pathplan.py : The generated routes are displayed using matplotlib.  
-GPS_pathplan_kml.py : Saves the generated route to a kml file. The saved kml file can be displayed in Google Earth.  
+GPS_trajectory generation.py : The generated routes are displayed using matplotlib.  
+GPS_trajectory generation_kml.py : Saves the generated route to a kml file. The saved kml file can be displayed in Google Earth.  
 
 ## Requirement
 * Python 3.7.
