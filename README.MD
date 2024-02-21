@@ -42,7 +42,7 @@ The following list is output.
 [[Python] 始点の緯度経度と方位角と距離から、終点の緯度経度と方位角を求める](https://qiita.com/r-fuji/items/5eefb451cf7113f1e51b)
 
 ## Author
-happylyrics  
-[Twitter](https://twitter.com/happylyr1cs)  
+Naoto Yamanaka
+
 ## Licence
 MIT
